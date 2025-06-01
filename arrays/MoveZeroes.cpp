@@ -14,3 +14,6 @@ class Solution {
             }
         }
     };
+
+
+    //You’re not “pushing” zeros to the left — you’re pulling non-zeros to the front. That’s the key idea.
